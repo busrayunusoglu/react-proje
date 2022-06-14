@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "SteelSeries Rival 310 RGB Optik Gaming Mouse",
+      "unitPrice": 529,
+      "unitsInStock": 53,
+      "images": "/images/id1.jpg"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Logitech G102 Lightsync RGB",
+      "unitPrice": 500,
+      "unitsInStock": 17,
+      "images": "/images/id2.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "productName": "Asus P506 Rog Strix Impact II",
+      "unitPrice": 504,
+      "unitsInStock": 53,
+      "images": "/images/id3.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "productName": "SteelSeries Qck Heavy Gaming Mousepad",
+      "unitPrice": 219,
+      "unitsInStock": 19,
+      "images": "/images/id4.png"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "SteelSeries QcK Prism Cloth RGB Mousepad - Medium",
+      "unitPrice": 379,
+      "unitsInStock": 120,
+      "images": "/images/id5.jpg"
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "XPG Battleground XL Prime RGB Kumaş Mousepad",
+      "unitPrice": 381,
+      "unitsInStock": 15,
+      "images": "/images/id6.jpg"
+    },
+    {
+      "id": 7,
+      "categoryId": 3,
+      "productName": "Razer Blackwidow X Chroma RGB Mekanik Oyuncu Klavyesi - Mercury US",
+      "unitPrice": 1172,
+      "unitsInStock": 100,
+      "images": "/images/id7.jpg"
+    },
+    {
+      "id": 8,
+      "categoryId": 3,
+      "productName": "Logitech G815 Tactile Lightsync RGB Mekanik Oyuncu Klavyesi",
+      "unitPrice": 1596,
+      "unitsInStock": 29,
+      "images": "/images/id8.jpg"
+    },
+    {
+      "id": 9,
+      "categoryId": 3,
+      "productName": "Razer Huntsman Elite Opto-Mekanik RGB Oyun Klavyesi",
+      "unitPrice": 1661,
+      "unitsInStock": 31,
+      "images": "/images/id9.jpg"
+    },
+    {
+      "id": 10,
+      "categoryId": 4,
+      "productName": "BenQ 24.5'' XL2546K 0,5ms 240Hz DyAc Full HD Gaming Led Monitör",
+      "unitPrice": 3879,
+      "unitsInStock": 22,
+      "images": "/images/id10.jpg"
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Gamepower Intense X40 27'' 240Hz 1Ms Curved RGB Freesync/G-sync Gaming Monitör",
+      "unitPrice": 2548,
+      "unitsInStock": 86,
+      "images": "/images/id11.png"
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Dell Alienware 24.5'' 240Hz 1ms G-Sync Full HD Oyuncu Monitörü AW2518H",
+      "unitPrice": 6131,
+      "unitsInStock": 24,
+      "images": "/images/id12.jpg"
+    },
+    {
+      "id": 13,
+      "categoryId": 5,
+      "productName": "XDrive Akıncı Profesyonel Oyun | Oyuncu | Çalışma Koltuğu",
+      "unitPrice": 1614,
+      "unitsInStock": 35,
+      "images": "/images/id13.jpg"
+    },
+    {
+      "id": 14,
+      "categoryId": 5,
+      "productName": "XDrive Fırtına Profesyonel Oyun | Oyuncu Koltuğu",
+      "unitPrice": 1656,
+      "unitsInStock": 39,
+      "images": "/images/id14.jpg"
+    },
+    {
+      "id": 15,
+      "categoryId": 5,
+      "productName": "XDrive 15'Li Profesyonel Oyun | Oyuncu | Çalışma Koltuğu",
+      "unitPrice": 1274,
+      "unitsInStock": 29,
+      "images": "/images/id15.jpg"
+    },
+    {
+      "id": 16,
+      "categoryId": 6,
+      "productName": "SteelSeries Arctis Pro RGB USB Hi-Res",
+      "unitPrice": 1483,
+      "unitsInStock": 67,
+      "images": "/images/id16.jpg"
+    },
+    {
+      "id": 17,
+      "categoryId": 6,
+      "productName": "Logitech G Pro X Lightspeed Kablosuz 7.1 Gaming",
+      "unitPrice": 2099,
+      "unitsInStock": 42,
+      "images": "/images/id17.jpg"
+    },
+    {
+      "id": 18,
+      "categoryId": 6,
+      "productName": "Corsair VOID Pro RGB Kablosuz Special Edition Premium Dolby 7.1",
+      "unitPrice": 1367,
+      "unitsInStock": 25,
+      "images": "/images/id18.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Mouse",
+      "seoUrl": "mouse"
+    },
+    {
+      "id": 2,
+      "categoryName": "Mousepad",
+      "seoUrl": "mousepad"
+    },
+    {
+      "id": 3,
+      "categoryName": "Klavye",
+      "seoUrl": "klavye"
+    },
+    {
+      "id": 4,
+      "categoryName": "Monitör",
+      "seoUrl": "monitor"
+    },
+    {
+      "id": 5,
+      "categoryName": "Oyuncu Koltuğu",
+      "seoUrl": "gamer-koltuk"
+    },
+    {
+      "id": 6,
+      "categoryName": "Kulaklık",
+      "seoUrl": "kulaklik"
+    }
+  ]
+}
